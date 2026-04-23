@@ -36,7 +36,6 @@ Final-year Software Engineering student at Lahore Garrison University (3.81 GPA)
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -54,7 +53,7 @@ Final-year Software Engineering student at Lahore Garrison University (3.81 GPA)
 **Software Engineer Intern** @ DataRigel _(Feb 2026 - Apr 2026)_
 - Shipped 8+ production features for IoT Android app using React Native & TypeScript
 - Integrated real-time sensor data streaming across 4 agile sprints
-- Resolved 8-10 bugs through APK-level QA cycles
+- Resolved 20+ bugs through APK-level QA cycles
 
 **Software Engineer Intern** @ Netsol Technologies _(Jul 2025 - Aug 2025)_
 - Built 3+ internal utility tools and backend services
