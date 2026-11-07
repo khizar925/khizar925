@@ -10,13 +10,11 @@
 
 ## 🚀 About Me
 
-Final-year Software Engineering student at Lahore Garrison University (3.81 GPA) with a passion for building scalable applications and AI-powered solutions. I've shipped production features at **DataRigel** and **Netsol Technologies**, working with IoT systems, REST APIs, and full-stack development.
+Associate Software Engineer building scalable applications and AI-powered solutions. Graduated in Software Engineering (June 2026, 3.83 CGPA), with experience across IoT systems, REST APIs, and full-stack development and AWS cloud.
 
-- 🔭 Currently working on **AI-powered recruitment & resume optimization tools**
+- 🔭 Getting started with **open source contributions**
 - 🌱 Learning advanced system design and cloud architecture
 - 👯 Open to collaborate on **full-stack projects** and **AI applications**
-- 💼 Looking for **full-time Software Engineering opportunities**
-- ⚡ Fun fact: I optimize resumes so well, I built an app for it!
 
 ## 🛠️ Tech Stack
 
@@ -50,6 +48,11 @@ Final-year Software Engineering student at Lahore Garrison University (3.81 GPA)
 
 ## 💼 Experience
 
+**Associate Software Engineer** @ DataRigel _(Apr 2026 - Present)_
+- Maintaining and adding features to React Native apps that connect with IoT devices, based on client requirements
+- Maintaining an internal Node.js/TypeScript portal and its backend APIs, adding features as needed
+- Handling deployment and monitoring of services on AWS (EC2, IAM, S3, CloudFront, Route53, Nginx, CloudWatch, CloudTrail)
+
 **Software Engineer Intern** @ DataRigel _(Feb 2026 - Apr 2026)_
 - Shipped 8+ production features for IoT Android app using React Native & TypeScript
 - Integrated real-time sensor data streaming across 4 agile sprints
@@ -60,26 +63,6 @@ Final-year Software Engineering student at Lahore Garrison University (3.81 GPA)
 - Improved system functionality and reduced maintenance time by 30%
 - Worked on data models and backend integration
 
-## 🎯 Featured Projects
-
-### [SmartHire](https://github.com/khizar925) 🤖
-AI-powered recruitment platform that cuts resume screening time by 78%
-- **Tech:** Next.js 16, TypeScript, Supabase, Gemini API, Tailwind CSS
-- 6-stage AI pipeline with 19 REST endpoints
-- 38 reusable TypeScript components with React Query caching
-
-### [ResumeBoost](https://github.com/khizar925) 📄
-ATS resume optimizer using Google's XYZ format
-- **Tech:** React, Node.js, Express.js
-- Analyzes and optimizes resumes for Applicant Tracking Systems
-- Implements Google's XYZ achievement format
-
-### [MockHire](https://github.com/khizar925) 🎤
-AI mock interview simulator with voice interaction and emotion detection
-- **Tech:** React, Node.js, Express.js, Clerk, Tailwind CSS
-- Adaptive questioning engine
-- Progress tracking dashboard with JWT authentication
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,11 +72,6 @@ AI mock interview simulator with voice interaction and emotion detection
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khizar925&theme=tokyonight&hide_border=true)
 
 </div>
-
-## 🏆 Certifications
-
-- **Claude Code in Action** - Anthropic
-- **CS50x: Introduction to Computer Science** - Harvard University
 
 ## 📫 Let's Connect
 
